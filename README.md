@@ -1,1 +1,1 @@
-This is just a front end implementation to demonstrate how redux works
+This is just a frontend implementation to demonstrate how redux works
