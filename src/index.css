@@ -22,6 +22,8 @@ button,
 select {
   font: inherit;
   margin-bottom: 1em;
+  border-radius: 0.25rem;
+  border-width:  0;
 }
 
 main {
@@ -66,8 +68,10 @@ form {
 }
 
 .reactionButton {
+
   margin: 0 0.25em 0 0;
   background: transparent;
+  padding: 0.5rem;
   border: none;
   color: whitesmoke;
   font-size: 1rem;
